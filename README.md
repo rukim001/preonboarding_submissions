@@ -204,4 +204,4 @@ $ python train.py --output_dir ./outputs/train_dataset --model_name_or_path ./mo
 </p> -->
 
 ## Reference
-[KLUE-MRC - Machine Reading Comprehension](https://klue-benchmark.com/tasks/72/data/description)
+[KLUE-STS - Semantic Textual Similarity](https://klue-benchmark.com/tasks/67/data/description)
