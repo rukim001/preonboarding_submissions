@@ -1,0 +1,20 @@
+git 초기화
+git init
+
+git repository 연결
+git remote add origin URL
+
+git repo 확인
+git remote -v
+
+git pull
+git pull origin BRANCH_NAME
+
+git 파일 스테이지에 업로드
+git add .
+
+커밋
+git commit -m 'commit'
+
+repository에 파일 업로드
+git push -u origin master
